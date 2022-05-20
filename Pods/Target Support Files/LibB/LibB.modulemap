@@ -1,0 +1,6 @@
+framework module LibB {
+  umbrella header "LibB-umbrella.h"
+
+  export *
+  module * { export * }
+}

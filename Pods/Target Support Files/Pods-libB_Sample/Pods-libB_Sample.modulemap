@@ -1,0 +1,6 @@
+framework module Pods_libB_Sample {
+  umbrella header "Pods-libB_Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}

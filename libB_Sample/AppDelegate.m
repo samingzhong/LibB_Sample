@@ -6,6 +6,7 @@
 //
 
 #import "AppDelegate.h"
+#import "LibB.h"
 
 @interface AppDelegate ()
 
@@ -16,6 +17,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    LibBClassA *a = [LibBClassA new];
+    [a methodA];
+    
     return YES;
 }
 
