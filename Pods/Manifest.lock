@@ -1,5 +1,5 @@
 PODS:
-  - LibA (1.0.0):
+  - LibA (1.0.3):
     - Masonry
   - LibB (1.0.0):
     - LibA
@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  LibA: fa32f21b3a0481cdf1bdf704e4fb6a519c800ccc
-  LibB: 77c409836ee3acca4a123794d144b5350792c98f
+  LibA: 84f1112a02520a14e1dce8dc9a2a351e9467a1b2
+  LibB: c317e3b138b1a7aac61e583d79c1067a420a5bad
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
 PODFILE CHECKSUM: 66d6717f8a1bbc96acdf8bb00fee8e23ec65a436

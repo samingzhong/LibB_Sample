@@ -14,6 +14,7 @@
 #import "ClassA.h"
 #import "ClassB.h"
 #import "CustomViewA.h"
+#import "LibAClassC.h"
 
 FOUNDATION_EXPORT double LibAVersionNumber;
 FOUNDATION_EXPORT const unsigned char LibAVersionString[];

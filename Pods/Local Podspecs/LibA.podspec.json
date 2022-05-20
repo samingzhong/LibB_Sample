@@ -1,6 +1,6 @@
 {
   "name": "LibA",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "license": {
     "type": "Copyright",
     "text": "Copyright © 2016 ruqichuxing. All rights reserved."
@@ -12,8 +12,8 @@
     "ruqi": "ruqi.com"
   },
   "source": {
-    "git": "http://gitlab.ruqimobility.local/ios_lib/common.git",
-    "tag": "1.0.0"
+    "git": "git@github.com:samingzhong/LibA.git",
+    "tag": "1.0.3"
   },
   "platforms": {
     "ios": "8.0"

@@ -7,6 +7,7 @@
 
 #import "AppDelegate.h"
 #import "LibB.h"
+#import "LibA.h"
 
 @interface AppDelegate ()
 
@@ -20,6 +21,8 @@
     LibBClassA *a = [LibBClassA new];
     [a methodA];
     
+    
+    LibAClassC *c = [LibAClassC new];
     return YES;
 }
 

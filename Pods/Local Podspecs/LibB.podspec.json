@@ -12,7 +12,7 @@
     "ruqi": "ruqi.com"
   },
   "source": {
-    "git": "http://gitlab.ruqimobility.local/ios_lib/common.git",
+    "git": "git@github.com:samingzhong/LibB.git",
     "tag": "1.0.0"
   },
   "platforms": {
